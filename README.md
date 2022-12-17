@@ -1,3 +1,3 @@
-Ola! Eu sou o Luís Otávio, estudante de programação!!!
+Ola! me Luís Otávio, sou estudante iniciante em programação!!
 
 
