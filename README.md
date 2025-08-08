@@ -49,10 +49,10 @@
 ## 🌐 Connect with me  
 
 <p align="center">
-  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)">
+  <a href="https://www.linkedin.com/in/luís-otávio-silva-87761424a">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="luisotavio1907@gmail.com">
+  <a href="mailto:luisotavio1907@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
