@@ -19,27 +19,27 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white
 
 ---
 
 ## 📌 What you'll find here  
-
-- 💻 Back-end and API projects  
+  
 - 📊 Data analysis & quantitative modeling experiments  
 - 🔬 Projects mixing **physics, math, and programming**  
+- 💻 Back-end and API projects
 
 ---
 
 ## 🎓 Certifications & Education
 
-- **Tecnólogo em Desenvolvimento Back-End** — Universidade Pitágoras Unopar Anhanguera (2025)  
-- **Curso de Mercado de Capitais (60h)** — Uniderp / Anhanguera (2024)  
-- **Curso de Capital de Giro e Análise Financeira (60h)** — Uniderp / Anhanguera (2024)  
-- **Curso de Análise de Investimentos e Fontes de Financiamento (60h)** — Uniderp / Anhanguera (2024)  
-- **Python do Básico ao Intermediário (7h45)** — FEA.dev USP (2023)  
-- **SQL para Iniciantes (3h51)** — Cursos Sapium (2023)  
-- **Trilha Conectar (Fundamentos da Programação e Internet)** — Rocketseat Discover (2023)  
+- **Backend Development Technologist** — Universidade Pitágoras Unopar Anhanguera (2025)
+- **Capital Markets Course** — Uniderp / Anhanguera (2024)
+- **Working Capital and Financial Analysis Course** — Uniderp / Anhanguera (2024)
+- **Investment Analysis and Funding Sources Course** — Uniderp / Anhanguera (2024)
+- **Python from Basic to Intermediate** — FEA.dev USP (2023)
+- **SQL for Beginners** — Cursos Sapium (2023)
+- **Connect Trail (Fundamentals of Programming and the Internet)** — Rocketseat Discover (2023)  
 
 ---
 
