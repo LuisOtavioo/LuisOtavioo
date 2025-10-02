@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -37,12 +36,15 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 🎓 Certifications & Education
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
+- **Tecnólogo em Desenvolvimento Back-End** — Universidade Pitágoras Unopar Anhanguera (2025)  
+- **Curso de Mercado de Capitais (60h)** — Uniderp / Anhanguera (2024)  
+- **Curso de Capital de Giro e Análise Financeira (60h)** — Uniderp / Anhanguera (2024)  
+- **Curso de Análise de Investimentos e Fontes de Financiamento (60h)** — Uniderp / Anhanguera (2024)  
+- **Python do Básico ao Intermediário (7h45)** — FEA.dev USP (2023)  
+- **SQL para Iniciantes (3h51)** — Cursos Sapium (2023)  
+- **Trilha Conectar (Fundamentos da Programação e Internet)** — Rocketseat Discover (2023)  
 
 ---
 
