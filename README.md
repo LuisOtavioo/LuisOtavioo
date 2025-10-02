@@ -26,6 +26,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+![Python](https://img.shields.io/badge/Python%20USP-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL%20Sapium-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Rocketseat](https://img.shields.io/badge/Rocketseat%20Discover-7159C1?style=for-the-badge&logo=rocket&logoColor=white)  
+
+
 ---
 
 ## 📌 What you'll find here  
