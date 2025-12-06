@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hello, I'm Luís Otávio</h1>
 
 <p align="center">
-🎓 <strong>Back-end Developer</strong> with a degree in Software Development<br>
 📚 Currently studying <strong>Physics</strong> at <strong>UNESP – Guaratinguetá</strong><br>
-📊 Aspiring <strong>Quantitative Analyst</strong> — combining coding skills, mathematics, and data analysis to solve complex problems
+🎓 <strong>Back-end Developer</strong> with a degree in Software Development<br>
+⚛️ Aspiring **Computational Physics & Data Analysis**
 </p>
 
 ---
@@ -23,12 +23,11 @@
 
 ---
 
-## 📌 What you'll find here  
-  
-- 📊 Data analysis & quantitative modeling experiments  
-- 🔬 Projects mixing **physics, math, and programming**  
-- 💻 Back-end and API projects
-
+## 📌 What you'll find here  
+  
+- ⚛️ Computational Physics & Data Science projects
+- 📈 Analysis, Modeling, and Simulation of Physical Phenomena
+- 💻 Back-end projects, APIs, and Software Solutions
 ---
 
 ## 🎓 Certifications & Education
