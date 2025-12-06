@@ -2,8 +2,8 @@
 
 <p align="center">
 🎓 <strong>Back-end Developer</strong> with a degree in Software Development<br>
-📚 Currently studying <strong>Physics</strong> at <strong>UNESP – Guaratinguetá</strong><br>
-⚛️ Aspiring **Computational Physics & Data Analysis**
+📚 Currently studying Physics at UNESP – Guaratinguetá<br>
+⚛️ Aspiring Computational Physics & Data Analysis
 </p>
 
 ---
