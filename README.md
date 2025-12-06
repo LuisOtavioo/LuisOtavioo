@@ -24,7 +24,6 @@
 ---
 
 ## 📌 What you'll find here  
-  
 - ⚛️ Computational Physics & Data Science projects
 - 📈 Analysis, Modeling, and Simulation of Physical Phenomena
 - 💻 Back-end projects, APIs, and Software Solutions
