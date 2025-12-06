@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello, I'm Luís Otávio</h1>
 
 <p align="center">
-📚 Currently studying <strong>Physics</strong> at <strong>UNESP – Guaratinguetá</strong><br>
 🎓 <strong>Back-end Developer</strong> with a degree in Software Development<br>
+📚 Currently studying <strong>Physics</strong> at <strong>UNESP – Guaratinguetá</strong><br>
 ⚛️ Aspiring **Computational Physics & Data Analysis**
 </p>
 
