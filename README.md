@@ -38,5 +38,5 @@ Technologist in Back-End Development · Interested in finance and data · Based 
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-otávio-silva-87761424a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/luisotavio-dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luisotavio1907@proton.me)
